@@ -1,3 +1,3 @@
 # Sequence Library
 
-Sequence library
+Library for analyzing genomic sequence :bug:
